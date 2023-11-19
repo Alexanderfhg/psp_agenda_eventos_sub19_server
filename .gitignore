@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# Editor directories and files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
