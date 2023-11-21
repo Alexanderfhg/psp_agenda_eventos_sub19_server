@@ -2,11 +2,11 @@ import { createConnection } from 'mysql2';
 
 // Configuración de la conexión a la base de datos
 const db = createConnection({
-    host: 'monorail.proxy.rlwy.net',
-    port: 24101,
-    user: 'root',
-    password: '1-fE1GDb-f15C16fA5hFfBgeHdDDE4EH',
-    database: 'railway'
+    host: 'events-calendar.cqawfiwiwudi.us-east-2.rds.amazonaws.com',
+    port: 3306,
+    user: 'admin',
+    password: 'VrJO3fEoTdOL2KamsW9u',
+    database: 'events-calendar'
 });
 
 // Conectar a la base de datos
